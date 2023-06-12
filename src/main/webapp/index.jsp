@@ -5,7 +5,7 @@
   <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello Docket(test - 1)!" %>
+<h1><%= "Hello Docket(test - 2)!" %>
 </h1>
 <br/>
 
